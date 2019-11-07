@@ -1,5 +1,5 @@
-Ovo je seminarski rad iz TNP-a\n
+Ovo je seminarski rad iz TNP-a 
 
-Autori:Nikola Belaković, Vojkan Panić, Filip Antonijević, Bogdan Damljanović\n
+Autori:Nikola Belaković, Vojkan Panić, Filip Antonijević, Bogdan Damljanović 
 
 Tema:David Bader
