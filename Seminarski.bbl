@@ -1,8 +1,23 @@
 \begin{thebibliography}{10}
 
+\bibitem{paob}
+5g will enable a new era of opportunity, says david bader.
+\newblock
+  https://timesofindia.indiatimes.com/blogs/breaking-shackles/5g-will-enable-a-new-era-of-o.
+
+\bibitem{priv}
+725 ponce.
+\newblock
+  https://725ponce.com/725views-and-grady-high-school-present-individually-we-are/.
+
 \bibitem{aaas}
 Aaas members elected as fellows.
 \newblock https://www.aaas.org/news/aaas-members-elected-fellows.
+
+\bibitem{wire}
+Announcing our newest rock star of hpc: David bader.
+\newblock
+  https://insidehpc.com/2011/11/announcing-our-newest-rock-star-of-hpc-david-bader/.
 
 \bibitem{awards}
 Awards.
@@ -12,19 +27,42 @@ Awards.
 Bader receives 2006 ibm faculty award.
 \newblock http://hg.gatech.edu/node/51683.
 
+\bibitem{mik}
+Cell be center planned for georgia tech.
+\newblock
+  https://web.archive.org/web/20071129170413/http://www.cc.gatech.edu/~bader/news/ElectronicNews-061120.pdf.
+
 \bibitem{nasa}
 Center of excellence in space data and information sciences annual report.
 \newblock
   https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040012852.pdf.
+
+\bibitem{acm}
+College of computing people database.
+\newblock
+  https://web.archive.org/web/20060901190941/http://www.cc.gatech.edu/component/option,com_peopledb/task,view/contact_id,284451105/Itemid,315/.
 
 \bibitem{int}
 College of computing picks bader to lead school of cse.
 \newblock
   https://www.hpcwire.com/off-the-wire/college-computing-picks-bader-lead-school-cse/.
 
+\bibitem{nmex}
+College of computing picks bader to lead school of cse.
+\newblock
+  https://www.news.gatech.edu/2014/03/25/college-computing-picks-bader-lead-school-cse.
+
 \bibitem{micaw}
 David bader wins microsoft research award.
 \newblock http://hg.gatech.edu/node/51619.
+
+\bibitem{alu}
+The electrical and computer engineering distinguished alumni award.
+\newblock https://ece.umd.edu/alumni/award.
+
+\bibitem{mikr}
+Georgia tech center to foster cell processor.
+\newblock https://www.eetimes.com/document.asp?doc_id=1164417.
 
 \bibitem{gtuc}
 Georgia tech, uc davis, texas a&m join nvail program with focus on graph
@@ -32,10 +70,31 @@ Georgia tech, uc davis, texas a&m join nvail program with focus on graph
 \newblock
   https://news.developer.nvidia.com/graph-technology-leaders-combine-forces-to-advance-graph-analytics/.
 
+\bibitem{soci}
+Golden core award.
+\newblock https://www.computer.org/volunteering/awards/golden-core.
+
+\bibitem{hwire}
+Hpcwire.
+\newblock https://www.hpcwire.com/david-bader/.
+
+\bibitem{data}
+Ibm, nvidia rev hpc engines in next-gen supercomputer pus.
+\newblock
+  https://www.pcworld.com/article/2947792/ibm-nvidia-rev-hpc-engines-in-nextgen-supercomputer-push.html.
+
+\bibitem{serv}
+Meritorious service certificate.
+\newblock https://www.computer.org/volunteering/awards/meritorious-service.
+
 \bibitem{kar}
 Morris bader.
 \newblock
   https://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=morris-bader&pid=3469844.
+
+\bibitem{radi}
+Networking and information technology research and development.
+\newblock https://www.nitrd.gov/nsci/files/NSCI2015WorkshopReport06142016.pdf.
 
 \bibitem{njit}
 Njit to establish new institute for data science.
@@ -46,10 +105,19 @@ Nvidia team includes cray, oak ridge national labs, six top u.s. universities.
 \newblock
   https://nvidianews.nvidia.com/news/nvidia-led-team-receives-25-million-contract-from-darpa-to-develop-high-performance-gpu-computing-systems.
 
+\bibitem{pen}
+Rossin college of engineering & applied science.
+\newblock https://engineering.lehigh.edu/alumni/david-bader.
+
 \bibitem{siam}
 Siam announces class of 2019 fellows.
 \newblock
   https://sinews.siam.org/Details-Page/siam-announces-class-of-2019-fellows.
+
+\bibitem{uce}
+Video interview: Darpa's adams project taps big data to find the breaking bad.
+\newblock
+  https://insidehpc.com/2011/11/video-interview-darpas-adams-project-taps-big-data-to-find-the-breaking-bad/.
 
 \bibitem{ieee}
 Five georgia tech faculty members elected as ieee fellows, 2009.
