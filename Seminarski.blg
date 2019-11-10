@@ -18,45 +18,46 @@ Warning--to sort, need author or key in int
 Warning--to sort, need author or key in ben
 Warning--to sort, need author or key in hipc
 Warning--to sort, need author or key in kar
-You've used 16 entries,
+Warning--to sort, need author or key in nasa
+You've used 17 entries,
             2118 wiz_defined-function locations,
-            551 strings with 6116 characters,
-and the built_in function-call counts, 2603 in all, are:
-= -- 234
-> -- 22
+            554 strings with 6262 characters,
+and the built_in function-call counts, 2760 in all, are:
+= -- 248
+> -- 23
 < -- 0
-+ -- 18
++ -- 19
 - -- 2
-* -- 88
-:= -- 290
-add.period$ -- 33
-call.type$ -- 16
-change.case$ -- 49
+* -- 93
+:= -- 306
+add.period$ -- 35
+call.type$ -- 17
+change.case$ -- 52
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 112
-empty$ -- 368
+cite$ -- 33
+duplicate$ -- 119
+empty$ -- 391
 format.name$ -- 2
-if$ -- 636
+if$ -- 675
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 17
 missing$ -- 0
-newline$ -- 68
+newline$ -- 72
 num.names$ -- 2
-pop$ -- 164
+pop$ -- 175
 preamble$ -- 1
-purify$ -- 33
+purify$ -- 35
 quote$ -- 0
-skip$ -- 101
+skip$ -- 107
 stack$ -- 0
-substring$ -- 80
-swap$ -- 16
+substring$ -- 85
+swap$ -- 17
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 64
-warning$ -- 15
+type$ -- 68
+warning$ -- 16
 while$ -- 2
-width$ -- 18
-write$ -- 122
-(There were 15 warnings)
+width$ -- 19
+write$ -- 129
+(There were 16 warnings)
