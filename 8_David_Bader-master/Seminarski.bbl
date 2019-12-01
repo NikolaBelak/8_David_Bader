@@ -40,7 +40,7 @@ Center of excellence in space data and information sciences annual report.
 \bibitem{acm}
 College of computing people database.
 \newblock
-  https://web.archive.org/web/20060901190941/http://www.cc.gatech.edu/component/option,com\_peopledb/task,view/contact\_id,284451105/Itemid,315/.
+  https://web.archive.org/web/20060901190941/http://www.cc.gatech.edu/component/option,com_peopledb/task,view/contact_id,284451105/Itemid,315/.
 
 \bibitem{int}
 College of computing picks bader to lead school of cse.
@@ -62,10 +62,10 @@ The electrical and computer engineering distinguished alumni award.
 
 \bibitem{mikr}
 Georgia tech center to foster cell processor.
-\newblock https://www.eetimes.com/document.asp?doc/\_id=1164417.
+\newblock https://www.eetimes.com/document.asp?doc_id=1164417.
 
 \bibitem{gtuc}
-Georgia tech, uc davis, texas a\&m join nvail program with focus on graph
+Georgia tech, uc davis, texas a&m join nvail program with focus on graph
   analytics.
 \newblock
   https://news.developer.nvidia.com/graph-technology-leaders-combine-forces-to-advance-graph-analytics/.
@@ -90,7 +90,7 @@ Meritorious service certificate.
 \bibitem{kar}
 Morris bader.
 \newblock
-  https://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=morris-baderpid=3469844.
+  https://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=morris-bader&pid=3469844.
 
 \bibitem{radi}
 Networking and information technology research and development.
@@ -106,7 +106,7 @@ Nvidia team includes cray, oak ridge national labs, six top u.s. universities.
   https://nvidianews.nvidia.com/news/nvidia-led-team-receives-25-million-contract-from-darpa-to-develop-high-performance-gpu-computing-systems.
 
 \bibitem{pen}
-Rossin college of engineering applied science.
+Rossin college of engineering & applied science.
 \newblock https://engineering.lehigh.edu/alumni/david-bader.
 
 \bibitem{siam}
@@ -146,8 +146,8 @@ Announcing the winners of the ai system hardware/software co-design research
   https://research.fb.com/blog/2019/05/announcing-the-winners-of-the-ai-system-hardware-software-co-design-research-awards/.
 
 \bibitem{cell}
-Gary Goettling.
-\newblock Power cell, 2007.
+{Gary Goettling}.
+\newblock {Power Cell}, 2007.
 \newblock
   https://web.archive.org/web/20071129170415/http://www.cc.gatech.edu/~bader/news/GATech-Alumni-0701.pdf.
 

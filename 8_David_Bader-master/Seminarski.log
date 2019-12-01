@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.11.3)  1 DEC 2019 20:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.11.3)  10 NOV 2019 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,18 +491,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
-<David_Bader_2017.png, id=67, 417.05812pt x 424.58624pt>
+(Font)              <5> on input line 86.
+<David_Bader_2017.png, id=114, 417.05812pt x 424.58624pt>
 File: David_Bader_2017.png Graphic file (type png)
 <use David_Bader_2017.png>
-Package pdftex.def Info: David_Bader_2017.png  used on input line 49.
+Package pdftex.def Info: David_Bader_2017.png  used on input line 87.
 (pdftex.def)             Requested size: 187.67441pt x 191.06204pt.
- [2 <./David_Bader_2017.png>] [3] [4]
-(./Seminarski.bbl
+ (./Seminarski.bbl
 Underfull \hbox (badness 1796) in paragraph at lines 4--7
 []\T2A/cmr/m/n/9 5g will ena-ble a new era of op-por-tu-nity, says da-vid ba-de
 r.
@@ -523,7 +522,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--21
 \T2A/cmr/m/n/9 https://insidehpc.com/2011/11/announcing-our-newest-rock-star-
  []
 
-
+[4 <./David_Bader_2017.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 27--29
 []\T2A/cmr/m/n/9 Bader re-ce-i-ves 2006 ibm fa-culty award.
  []
@@ -555,225 +554,275 @@ Overfull \hbox (14.57326pt too wide) in paragraph at lines 36--39
 2.pdf. 
  []
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 ...://www.cc.gatech.edu/component/option,com_
+                                                  peopledb/task,view/contact...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 43.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.44 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--44
 []\T2A/cmr/m/n/9 College of com-pu-ting pe-o-ple da-ta-base.
  []
 
 
-Overfull \hbox (350.5834pt too wide) in paragraph at lines 41--44
+Overfull \hbox (342.55084pt too wide) in paragraph at lines 41--44
 \T2A/cmr/m/n/9 https://web.archive.org/web/20060901190941/http://www.cc.gatech.
-edu/component/option,com_peopledb/task,view/contact_id,284451105/Itemid,315/. 
+edu/component/option,com$[]\OML/cmm/m/it/9 eopledb=task; view=contact[]d; \OT1/
+cmr/m/n/9 284451105\OML/cmm/m/it/9 =Itemid; \OT1/cmr/m/n/9 315\OML/cmm/m/it/9 =
+:[]$ 
  []
 
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.44 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Underfull \hbox (badness 6047) in paragraph at lines 46--49
-[]\T2A/cmr/m/n/9 College of com-pu-ting picks ba-der to lead sc-hool of cse.
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
-\T2A/cmr/m/n/9 https://www.hpcwire.com/off-the-wire/college-computing-picks-
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
 []\T2A/cmr/m/n/9 College of com-pu-ting picks ba-der to lead sc-hool of cse.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--54
-\T2A/cmr/m/n/9 https://www.news.gatech.edu/2014/03/25/college-computing-
+\T2A/cmr/m/n/9 https://www.news.gatech.edu/2014/03/25/college-computing-picks-b
+ader-lead-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
-[]\T2A/cmr/m/n/9 David ba-der wins mi-cro-soft re-se-arch award.
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+[]\T2A/cmr/m/n/9 The elec-tri-cal and com-pu-ter en-gi-ne-e-ring di-stin-gu-is-
+hed alumni award.
  []
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 ... https://www.eetimes.com/document.asp?doc_
+                                                  id=1164417.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-[]\T2A/cmr/m/n/9 Georgia tech cen-ter to fo-ster cell pro-ces-sor.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.66 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (26.82634pt too wide) in paragraph at lines 64--66
+[]\T2A/cmr/m/n/9 Georgia tech cen-ter to fo-ster cell pro-ces-sor.  https://www
+.eetimes.com/document.asp?doc$[]\OML/cmm/m/it/9 d \OT1/cmr/m/n/9 =
  []
 
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.66 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Overfull \hbox (32.29788pt too wide) in paragraph at lines 74--76
-[]\T2A/cmr/m/n/9 Golden core award.  https://www.computer.org/volunteering/awar
-ds/golden-
- []
+! Misplaced alignment tab character &.
+l.68 Georgia tech, uc davis, texas a&
+                                     m join nvail program with focus on graph
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
 []\T2A/cmr/m/n/9 Ibm, nvi-dia rev hpc en-gi-nes in next-gen su-per-com-pu-ter p
 us.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 82--85
-\T2A/cmr/m/n/9 https://www.pcworld.com/article/2947792/ibm-nvidia-rev-hpc-
+\T2A/cmr/m/n/9 https://www.pcworld.com/article/2947792/ibm-nvidia-rev-hpc-engin
+es-in-nextgen-
  []
 
 
-Overfull \hbox (95.67325pt too wide) in paragraph at lines 87--89
+Overfull \hbox (26.28781pt too wide) in paragraph at lines 87--89
 []\T2A/cmr/m/n/9 Meritorious ser-vice cer-ti-fi-cate.  https://www.computer.org
 /volunteering/awards/meritorious-
  []
 
+! Misplaced alignment tab character &.
+l.93 ...tuaries/etpa/obituary.aspx?n=morris-bader&
+                                                  pid=3469844.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Overfull \hbox (85.89034pt too wide) in paragraph at lines 91--94
+
+Overfull \hbox (16.5049pt too wide) in paragraph at lines 91--94
 []\T2A/cmr/m/n/9 Morris ba-der.  https://obits.lehighvalleylive.com/obituaries/
 etpa/obituary.aspx?n=morris-
  []
 
 
-Overfull \hbox (25.59213pt too wide) in paragraph at lines 96--98
-\T2A/cmr/m/n/9 https://www.nitrd.gov/nsci/files/NSCI2015WorkshopReport06142016.
-pdf. 
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+[]\T2A/cmr/m/n/9 Networking and in-for-ma-tion tech-no-logy re-se-arch and de-v
+e-lop-ment.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
-[]\T2A/cmr/m/n/9 Njit to esta-blish new in-sti-tute for data sci-ence.
- []
-
-[5]
-Underfull \hbox (badness 2012) in paragraph at lines 104--107
+Underfull \hbox (badness 7030) in paragraph at lines 104--107
 []\T2A/cmr/m/n/9 Nvidia team inc-lu-des cray, oak ridge na-ti-o-nal labs, six t
-op
+op u.s. uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
-\T2A/cmr/m/n/9 u.s. uni-ver-si-ties.  https://nvidianews.nvidia.com/news/nvidia
--
+Underfull \hbox (badness 1348) in paragraph at lines 104--107
+\T2A/cmr/m/n/9 ver-si-ties.  https://nvidianews.nvidia.com/news/nvidia-led-team
+-receives-25-million-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
-\T2A/cmr/m/n/9 led-team-receives-25-million-contract-from-darpa-to-develop-high
--
- []
+! Misplaced alignment tab character &.
+l.109 Rossin college of engineering &
+                                      applied science.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--111
-[]\T2A/cmr/m/n/9 Rossin col-lege of en-gi-ne-e-ring ap-plied sci-ence.
+[]\T2A/cmr/m/n/9 Rossin col-lege of en-gi-ne-e-ring  ap-plied sci-ence.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
-[]\T2A/cmr/m/n/9 Siam an-no-un-ces class of 2019 fel-lows.
+Underfull \hbox (badness 1259) in paragraph at lines 118--121
+[]\T2A/cmr/m/n/9 Video in-ter-view: Darpa's adams pro-ject taps big data to fin
+d the bre-a-king
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
-\T2A/cmr/m/n/9 https://sinews.siam.org/Details-Page/siam-announces-class-of-
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 []\T2A/cmr/m/n/9 Five geor-gia tech fa-culty mem-bers elec-ted as ieee fel-lows
-,
+, 2009.
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 123--126
-\T2A/cmr/m/n/9 2009.  https://www.ece.gatech.edu/news/57002/five-georgia-tech-
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
+\T2A/cmr/m/n/9 https://www.ece.gatech.edu/news/57002/five-georgia-tech-faculty-
+members-elected-
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 128--131
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 []\T2A/cmr/m/n/9 Ece alum-nus ba-der pro-mo-ted to chair at geor-gia tech, 2014
 .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 128--131
-\T2A/cmr/m/n/9 https://ece.umd.edu/news/story/ece-alumnus-bader-promoted-to-
+\T2A/cmr/m/n/9 https://ece.umd.edu/news/story/ece-alumnus-bader-promoted-to-cha
+ir-at-georgia-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--137
-[]\T2A/cmr/m/n/9 Bennett uni-ver-sity, ieee hold glo-bal meet on
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--137
-\T2A/cmr/m/n/9 mac-hine le-ar-ning and data sci-ence, 2017.
- []
-
-
-Overfull \hbox (35.07596pt too wide) in paragraph at lines 133--137
-\T2A/cmr/m/n/9 https://economictimes.indiatimes.com/industry/services/education
-/bennett-
- []
-
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 133--137
 \T2A/cmr/m/n/9 university-ieee-hold-global-meet-on-machine-learning-and-data-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
-[]\T2A/cmr/m/n/9 Announcing the win-ners of the ai system har-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
-\T2A/cmr/m/n/9 dware/software co-design re-se-arch awards, 2019.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
-\T2A/cmr/m/n/9 https://research.fb.com/blog/2019/05/announcing-the-winners-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--153
-[]\T2A/cmr/m/n/9 Gary Go-et-tling.  Po-wer cell, 2007.
- []
-
-
-Overfull \hbox (112.53188pt too wide) in paragraph at lines 149--153
-\T2A/cmr/m/n/9 https://web.archive.org/web/20071129170415/http://www.cc.gatech.
-edu/ bader/news/GATech-
+Overfull \hbox (179.77574pt too wide) in paragraph at lines 149--153
+[]\T2A/cmr/m/n/9 Gary Go-et-tling.  Po-wer Cell, 2007.  https://web.archive.org
+/web/20071129170415/http://www.cc.gatech.edu/ bader/news/GATech-
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (./Seminarski.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `Seminarski.out' has not changed.
-(rerunfilecheck)             Checksum: 773BE6B932D39868C8FE4CCE9BCE06E5;379.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+(rerunfilecheck)             Checksum: A81868AFA11060B493CB8F3151378F8C;498.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 37 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9502 strings out of 492615
- 130632 string characters out of 6131390
- 212316 words of memory out of 5000000
- 13303 multiletter control sequences out of 15000+600000
- 13450 words of font info for 33 fonts, out of 8000000 for 9000
+ 9509 strings out of 492615
+ 130704 string characters out of 6131390
+ 213320 words of memory out of 5000000
+ 13307 multiletter control sequences out of 15000+600000
+ 14063 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,15n,28p,959b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,15n,28p,959b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/
-cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pf
-b></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb
->
-Output written on Seminarski.pdf (6 pages, 969365 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1
+000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm12
+00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on Seminarski.pdf (6 pages, 991249 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
