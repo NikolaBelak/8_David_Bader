@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Seminarski.aux
+The style file: plain.bst
+Database file #1: Seminarski.bib
+Warning--to sort, need author or key in njit
+Warning--to sort, need author or key in ieee
+Warning--to sort, need author or key in ece
+Warning--to sort, need author or key in awards
+Warning--to sort, need author or key in aaas
+Warning--to sort, need author or key in siam
+Warning--to sort, need author or key in ibm
+Warning--to sort, need author or key in micaw
+Warning--to sort, need author or key in gtuc
+Warning--to sort, need author or key in nvid
+Warning--to sort, need author or key in fb
+Warning--to sort, need author or key in int
+Warning--to sort, need author or key in ben
+Warning--to sort, need author or key in hipc
+Warning--to sort, need author or key in kar
+Warning--to sort, need author or key in pen
+Warning--to sort, need author or key in nasa
+Warning--to sort, need author or key in nmex
+Warning--to sort, need author or key in paob
+Warning--to sort, need author or key in acm
+Warning--to sort, need author or key in mik
+Warning--to sort, need author or key in mikr
+Warning--to sort, need author or key in uce
+Warning--to sort, need author or key in radi
+Warning--to sort, need author or key in data
+Warning--to sort, need author or key in wire
+Warning--to sort, need author or key in hwire
+Warning--to sort, need author or key in alu
+Warning--to sort, need author or key in soci
+Warning--to sort, need author or key in serv
+Warning--to sort, need author or key in priv
+You've used 32 entries,
+            2118 wiz_defined-function locations,
+            598 strings with 8059 characters,
+and the built_in function-call counts, 5117 in all, are:
+= -- 458
+> -- 38
+< -- 0
++ -- 35
+- -- 2
+* -- 168
+:= -- 546
+add.period$ -- 65
+call.type$ -- 32
+change.case$ -- 97
+chr.to.int$ -- 0
+cite$ -- 63
+duplicate$ -- 224
+empty$ -- 736
+format.name$ -- 2
+if$ -- 1260
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 0
+newline$ -- 132
+num.names$ -- 2
+pop$ -- 340
+preamble$ -- 1
+purify$ -- 65
+quote$ -- 0
+skip$ -- 197
+stack$ -- 0
+substring$ -- 161
+swap$ -- 32
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 31
+while$ -- 2
+width$ -- 34
+write$ -- 234
+(There were 31 warnings)
