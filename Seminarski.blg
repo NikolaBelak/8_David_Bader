@@ -3,6 +3,18 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Seminarski.aux
 The style file: plain.bst
 Database file #1: Seminarski.bib
+Repeated entry---line 226 of file Seminarski.bib
+ : @misc{soci
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 233 of file Seminarski.bib
+ : @misc{serv
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 240 of file Seminarski.bib
+ : @misc{priv
+ :           ,
+I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in njit
 Warning--to sort, need author or key in ieee
 Warning--to sort, need author or key in ece
@@ -36,7 +48,7 @@ Warning--to sort, need author or key in serv
 Warning--to sort, need author or key in priv
 You've used 32 entries,
             2118 wiz_defined-function locations,
-            598 strings with 8059 characters,
+            598 strings with 8057 characters,
 and the built_in function-call counts, 5117 in all, are:
 = -- 458
 > -- 38
@@ -75,4 +87,4 @@ warning$ -- 31
 while$ -- 2
 width$ -- 34
 write$ -- 234
-(There were 31 warnings)
+(There were 3 error messages)
